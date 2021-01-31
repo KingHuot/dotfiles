@@ -7,7 +7,7 @@ xrandr -s 1368x768
 picom -f &
 picom --config ~/.config/picom/picom.conf &
 
-xwallpaper --zoom ~/wallpapers/Flowers.png &
+xwallpaper --zoom ~/wallpapers/Hallstatt.jpg &
 
 slstatus &
 
