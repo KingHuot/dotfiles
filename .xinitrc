@@ -13,4 +13,8 @@ xwallpaper --zoom ~/wallpapers/Hallstatt.jpg &
 
 slstatus &
 
+#while true; do
+# dwm >/dev/null 2>&1
+#done
+
 exec dwm
